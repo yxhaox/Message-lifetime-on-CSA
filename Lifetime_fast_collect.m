@@ -1,4 +1,4 @@
-%% This is a faster way of finding Tree Age of IS
+%% This is a faster way of finding Tree Age (average lifetime) using CSA 
 %% This code collects active node at each step
 %% !!!!!!!!!!!!!This one curently only works for load of 1!!!!!!!!!!!!!
 
